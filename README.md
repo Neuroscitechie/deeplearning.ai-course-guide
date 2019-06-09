@@ -15,7 +15,7 @@ Rehearsing the course material and reading instructions could help you before st
 Currently I am leading a community towards completition of this course, and enjoying this process. I also advice my friends from the community to attempt to solve the material before checking this repo. :D
 ## Milestones
 
-  - **2018-03-05**: CNNs Week1 Assignment 1 is done. ✔️
-  - **2018-03-07**: CNNs Week1 Assignment 2 is done. ✔️
+  
+  - **2018-03-07**:Deep Learning AI specialization is completed! ✔️
   
   
